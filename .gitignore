@@ -1,3 +1,5 @@
 env/
 MNIST/
 runs/
+FashionMNIST/
+models/
